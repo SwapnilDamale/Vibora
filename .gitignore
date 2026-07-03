@@ -36,7 +36,9 @@ migrate_working_dir/
 # Flutter generated files
 .flutter-plugins
 .packages
-pubspec.lock
+
+# Flutter metadata
+.metadata
 
 # Local platform files
 /android/local.properties
